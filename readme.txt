@@ -1,2 +1,2 @@
 #####
-this is a go example
+#this is go exercise
